@@ -1,0 +1,12 @@
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.deps.json
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.dll
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\bin\Debug\net9.0\TaskManager.Domain.pdb
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.sourcelink.json
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.dll
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\refint\TaskManager.Domain.dll
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\TaskManager.Domain.pdb
+C:\Users\flutu\Desktop\PROJETOS\1- C#\TaskManager\TaskManager.Domain\obj\Debug\net9.0\ref\TaskManager.Domain.dll
