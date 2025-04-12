@@ -49,13 +49,19 @@ TaskManager/
 ## 🧪 Como rodar
 
 ```bash
-# 1. Restaurar pacotes
+# 1. Clone este repositório
+git clone https://github.com/jotamath/taskmanager-api.git
+
+# 2. Navegue até a pasta do projeto
+cd taskmanager-api
+
+# 3. Restaurar pacotes
 dotnet restore
 
-# 2. Criar banco de dados local (SQLite)
+# 4. Criar banco de dados local (SQLite)
 dotnet ef database update -s TaskManager.API
 
-# 3. Rodar a aplicação
+# 5. Rodar a aplicação
 dotnet run --project TaskManager.API
 ```
 
@@ -122,4 +128,6 @@ O algoritmo ordena as tarefas pendentes por prioridade, verifica os horários li
 | Nome         | GitHub                                   | LinkedIn                                                     |
 | ------------ | ---------------------------------------- | ------------------------------------------------------------ |
 | João Matheus | [@jotamath](https://github.com/jotamath) | [linkedin.com/in/jotamath](https://linkedin.com/in/jotamath) |
+
+
 
