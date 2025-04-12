@@ -1,5 +1,11 @@
 # TaskManager.API – Sistema de Gestão de Tarefas com Agendamento Inteligente
 
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/>
+</div>
+
 ## 📚 Descrição
 
 API desenvolvida em **ASP.NET Core** com arquitetura em camadas, responsável por gerenciamento de tarefas, categorização, agendamento automático estilo *time blocking*, e integração futura com Google Calendar. Ideal para produtividade pessoal ou equipes enxutas.
