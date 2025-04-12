@@ -11,6 +11,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "9.0.4",
+          "Microsoft.EntityFrameworkCore.Tools": "9.0.4",
           "TaskManager.Application": "1.0.0",
           "TaskManager.Domain": "1.0.0"
         },
@@ -421,6 +422,11 @@
             "assemblyVersion": "9.0.4.0",
             "fileVersion": "9.0.425.16310"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/9.0.4": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "9.0.4"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/9.0.4": {
@@ -923,6 +929,13 @@
       "sha512": "sha512-96NFbmjcZsO9HkSdWAwh5tn/7LKIu7cLW+zubyGV1BR1w8xpcqPXZcTW4S/0eA0d9BxyFnH8tSDRjUerWGoU/Q==",
       "path": "microsoft.entityframeworkcore.sqlite.core/9.0.4",
       "hashPath": "microsoft.entityframeworkcore.sqlite.core.9.0.4.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Tools/9.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QW87VJ1TRTN/tOATTfaXlP8BZZjpi9XkOwJHvDUQosS7cmD03bkYkbp3eoLwIlLOHRJaWi1NhOjqQ9zoBPZa9w==",
+      "path": "microsoft.entityframeworkcore.tools/9.0.4",
+      "hashPath": "microsoft.entityframeworkcore.tools.9.0.4.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/9.0.4": {
       "type": "package",
